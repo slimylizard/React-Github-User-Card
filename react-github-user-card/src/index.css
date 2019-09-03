@@ -13,7 +13,10 @@ code {
 }
 .Card{
   padding: 3%;
-  border: 1px solid black;
+  border: 3px solid rgb(87, 75, 247);
+  border-radius: 10px;
   margin: 0 auto;
-  max-width: 500px;
+  max-width: 300px;
+  background: rgb(207, 77, 99);
+
 }
